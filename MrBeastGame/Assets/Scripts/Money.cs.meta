@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64560935a6ede4589a28b36f0b6b4261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameover: {instanceID: 0}
+  - player: {instanceID: 0}
+  - audiosource: {instanceID: 0}
+  - chaching: {fileID: 8300000, guid: d098daf0e869b444e8794655da983115, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
